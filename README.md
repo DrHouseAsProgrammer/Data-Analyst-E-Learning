@@ -1,6 +1,4 @@
-# Data-Analyst-E-Learning
-Repository for the purposes of the Data Analyst E-Learning in EKPA
-# Sample Text
+# Example of README.md
 ## Sample subtext
 *Sample italics text*
 **Sample bold text**
